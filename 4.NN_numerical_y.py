@@ -441,7 +441,7 @@ for model_num in range(5):
 
 
     print(my_model.predict(testing_data_total))
-    print("mse 입니다아아아아아아아아아아아아아아아아아아아아아아앙", mse)
+    print("mse 입니다", mse)
 
     # print(pd.Series(my_model.predict(testing_data_total)))
 
